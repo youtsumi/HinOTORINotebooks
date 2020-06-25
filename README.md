@@ -1,1 +1,1 @@
-# HinOTORITransmission
+# HinOTORI related notebook repository
